@@ -1,0 +1,15 @@
+
+section#service {
+    background-image: url(images/service.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+section#subscribe {
+    background-image: url(images/subscribe.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
